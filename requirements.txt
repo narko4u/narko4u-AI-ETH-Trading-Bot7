@@ -1,0 +1,7 @@
+ccxt
+numpy
+pandas
+scikit-learn
+tensorflow
+ta
+python-dotenv
